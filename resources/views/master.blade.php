@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>E-Commerce Website</title>
+    <title>Scrapbook</title>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -21,10 +21,16 @@
 </body>
 <style>
     .custom-login {
-        height: 550px;
-        padding: 100px;
-        float: left;
-//         width: 50%;
+        padding: 50px 100px 100px 100px;
+    }
+
+    .custom-signup {
+        padding: 50px 100px 100px 100px;
+    }
+
+    .center {
+        text-align: center;
+        padding-top: 50px;
     }
 
 </style>
